@@ -1,56 +1,56 @@
 [
   {
-    "SavedGroupId": 4,
+    "SavedGroupId": 21,
     "GroupName": "#25",
     "GroupType": "Parametric",
-    "Settings": "[\"AR6_R10_0022\", \"AR6_R10_0025\"]",
-    "CreatedOn": "2025-09-28 08:54",
-    "DisplayCreatedOn": "2025-09-28 08:54",
+    "Settings": "[\"AR6_R10_0012\", \"AR6_R10_0015\"]",
+    "CreatedOn": "2025-10-01 11:16",
+    "DisplayCreatedOn": "2025-10-01 11:16",
     "UserName": "akanu"
   },
   {
-    "SavedGroupId": 5,
+    "SavedGroupId": 22,
     "GroupName": "all_AR6_R10",
     "GroupType": "Parametric",
-    "Settings": "[\"AR6_R10_0022\", \"AR6_R10_0025\"]",
-    "CreatedOn": "2025-09-28 08:54",
-    "DisplayCreatedOn": "2025-09-28 08:54",
+    "Settings": "[\"AR6_R10_0012\", \"AR6_R10_0015\"]",
+    "CreatedOn": "2025-10-02 10:29",
+    "DisplayCreatedOn": "2025-10-02 10:29",
     "UserName": "akanu"
   },
   {
-    "SavedGroupId": 2,
+    "SavedGroupId": 19,
     "GroupName": "AllRegion",
     "GroupType": "Region",
     "Settings": "[\"NI\", \"NZL\", \"SI\"]",
-    "CreatedOn": "2025-09-28 08:54",
-    "DisplayCreatedOn": "2025-09-28 08:54",
+    "CreatedOn": "2025-10-02 10:24",
+    "DisplayCreatedOn": "2025-10-02 10:24",
     "UserName": "akanu"
   },
   {
-    "SavedGroupId": 1,
+    "SavedGroupId": 18,
     "GroupName": "AllScenario",
     "GroupType": "Scenario",
-    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 11176}, {\"Name\": \"NewTech_AGR_KEA\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1729}, {\"Name\": \"NewTech_RC\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 7176}, {\"Name\": \"NewTechs_Industry\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 18172}, {\"Name\": \"NewTransport-KEA\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1258}, {\"Name\": \"New_RE_and_Conventional\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 8124}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1205}, {\"Name\": \"Base_VS\", \"Checked\": true, \"RowOrder\": 8, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 5756}, {\"Name\": \"Cohesive\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 6345}, {\"Name\": \"Individualistic\", \"Checked\": true, \"RowOrder\": 10, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 6077}, {\"Name\": \"advanced_features\", \"Checked\": true, \"RowOrder\": 11, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 808}]",
-    "CreatedOn": "2025-09-28 08:54",
-    "DisplayCreatedOn": "2025-09-28 08:54",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 11093}, {\"Name\": \"NewTech_AGR_TUI\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1728}, {\"Name\": \"NewTech_RC\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 7176}, {\"Name\": \"NewTechs_Industry\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 18172}, {\"Name\": \"NewTransport-TUI\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1258}, {\"Name\": \"New_RE_and_Conventional\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 8091}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1561}, {\"Name\": \"TRADE_PARMS\", \"Checked\": true, \"RowOrder\": 8, \"ShortName\": \"TS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 44}, {\"Name\": \"Base_VS\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 2362}, {\"Name\": \"Cohesive\", \"Checked\": true, \"RowOrder\": 10, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 5769}, {\"Name\": \"Individualistic\", \"Checked\": true, \"RowOrder\": 11, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 4853}, {\"Name\": \"advanced_features\", \"Checked\": true, \"RowOrder\": 12, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 808}]",
+    "CreatedOn": "2025-10-02 10:24",
+    "DisplayCreatedOn": "2025-10-02 10:24",
     "UserName": "akanu"
   },
   {
-    "SavedGroupId": 3,
+    "SavedGroupId": 20,
     "GroupName": "DefaultProperties",
     "GroupType": "Properties",
     "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
-    "CreatedOn": "2025-09-28 08:54",
-    "DisplayCreatedOn": "2025-09-28 08:54",
+    "CreatedOn": "2025-10-02 10:24",
+    "DisplayCreatedOn": "2025-10-02 10:24",
     "UserName": "akanu"
   },
   {
-    "SavedGroupId": 6,
+    "SavedGroupId": 23,
     "GroupName": "ref",
     "GroupType": "Scenario",
-    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"NewTech_AGR_KEA\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SR\"}, {\"Name\": \"NewTech_RC\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\"}, {\"Name\": \"NewTechs_Industry\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\"}, {\"Name\": \"NewTransport-KEA\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SR\"}, {\"Name\": \"New_RE_and_Conventional\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"SR\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"SS\"}, {\"Name\": \"Base_VS\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"RS\"}, {\"Name\": \"Cohesive\", \"Checked\": true, \"RowOrder\": 8, \"ShortName\": \"RS\"}, {\"Name\": \"Individualistic\", \"Checked\": false, \"RowOrder\": 9, \"ShortName\": \"RS\"}, {\"Name\": \"advanced_features\", \"Checked\": true, \"RowOrder\": 10, \"ShortName\": \"RS\"}]",
-    "CreatedOn": "2025-09-28 08:54",
-    "DisplayCreatedOn": "2025-09-28 08:54",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"NewTech_AGR_TUI\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SR\"}, {\"Name\": \"NewTech_RC\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\"}, {\"Name\": \"NewTechs_Industry\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\"}, {\"Name\": \"NewTransport-TUI\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SR\"}, {\"Name\": \"New_RE_and_Conventional\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"SR\"}, {\"Name\": \"TRADE_PARMS\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"TS\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"SS\"}, {\"Name\": \"Base_VS\", \"Checked\": true, \"RowOrder\": 8, \"ShortName\": \"RS\"}, {\"Name\": \"Cohesive\", \"Checked\": false, \"RowOrder\": 9, \"ShortName\": \"RS\"}, {\"Name\": \"Individualistic\", \"Checked\": true, \"RowOrder\": 10, \"ShortName\": \"RS\"}, {\"Name\": \"advanced_features\", \"Checked\": true, \"RowOrder\": 11, \"ShortName\": \"RS\"}]",
+    "CreatedOn": "2025-10-02 10:25",
+    "DisplayCreatedOn": "2025-10-02 10:25",
     "UserName": "akanu"
   }
 ]
