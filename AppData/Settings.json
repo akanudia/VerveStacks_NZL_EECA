@@ -22,10 +22,10 @@
   "RmFormSettings": {
     "IsDDWritingOnly": false,
     "IsRestartOption": false,
-    "MaxRun": "8",
+    "MaxRun": "2",
     "Solver": "CPLEX",
     "SolverOption": "BA121-7",
-    "StudyName": "pilot_runs",
+    "StudyName": "02Oct25",
     "IsGamsEngine": false,
     "RemoveVdFiles": false,
     "DoNotCreateCaseZipFile": true,
